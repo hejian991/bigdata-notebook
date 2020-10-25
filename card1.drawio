@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T14:22:23.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="_SCYx9_42M0ssSnvtN4y" version="13.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-25T15:03:04.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="pCUbgK2bgoIzOEs27NJU" version="13.8.2" type="github" pages="3">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1186" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mbi321F9UauVCYQKYEHj-44" value="消费者" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mbi321F9UauVCYQKYEHj-52" value="注册缴费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mbi321F9UauVCYQKYEHj-52" value="缴费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mbi321F9UauVCYQKYEHj-53" value="插卡消费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,6 +58,15 @@
             <mxPoint x="300" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n3W4IzXRyGcs6mr_8Z5a-1" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n3W4IzXRyGcs6mr_8Z5a-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -100,7 +109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="azgTreJ7bLXbBZMrRILv" name="第 3 页">
-    <mxGraphModel dx="1186" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="iKWRITeqY2m5a3BHQDLT-0" />
         <mxCell id="iKWRITeqY2m5a3BHQDLT-1" parent="iKWRITeqY2m5a3BHQDLT-0" />
